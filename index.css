@@ -1,4 +1,10 @@
 body{
     align-self: center;
     background-color: aliceblue;
+    text-align: justify;
+}
+
+.texto{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
